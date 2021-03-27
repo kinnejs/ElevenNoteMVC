@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ElevenNote.Services
 {
-    class NoteService
+    public class NoteService
     {
         private readonly Guid _userId;
 
@@ -51,10 +51,9 @@ namespace ElevenNote.Services
                                     Title = e.Title,
                                     CreatedUtc = e.CreatedUtc
                                 }
-                             );
+                        );
 
                 return query.ToArray();
-                
             }
         }
     }
