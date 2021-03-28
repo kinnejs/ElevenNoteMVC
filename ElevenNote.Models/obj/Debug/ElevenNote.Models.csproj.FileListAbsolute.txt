@@ -14,3 +14,11 @@ C:\Users\jonathan.kinne\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Models
 C:\Users\jonathan.kinne\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CopyComplete
 C:\Users\jonathan.kinne\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
 C:\Users\jonathan.kinne\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
+C:\Users\jonathan.kinne\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Models\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jonathan.kinne\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Models\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\jonathan.kinne\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Models\bin\Debug\System.Web.Http.dll
+C:\Users\jonathan.kinne\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Models\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\jonathan.kinne\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Models\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jonathan.kinne\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Models\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\jonathan.kinne\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Models\bin\Debug\System.Web.Http.xml
+C:\Users\jonathan.kinne\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Models\bin\Debug\System.Web.Http.WebHost.xml
